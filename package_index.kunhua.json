@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Anduino",
+      "name": "Arduino",
       "maintainer": "Kun-Hua Huang",
       "websiteURL": "https://github.com/kunhuahuang",
       "email": "kunhuahuang@hotmail.com",
