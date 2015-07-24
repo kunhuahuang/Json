@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "Anduino",
+      "maintainer": "Kun-Hua Huang",
+      "websiteURL": "https://github.com/kunhuahuang",
+      "email": "kunhuahuang@hotmail.com",
+      "help": {
+        "online": "http://Andestech.com"
+      },
+      "platforms": [
+        {
+          "name": "M2C Board",
+          "architecture": "nds32",
+          "version": "1.6.5",
+          "category": "Contributed",
+          "help": {
+            "online": "http://Andestech.com"
+          },
+          "archiveFileName": "m2c.zip",
+          "boards": [
+            {"name": "M2C Board"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Andestech",
+              "name": "nds32le-elf-newlib-v3m",
+              "version": "4.9.2"
+            }
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
