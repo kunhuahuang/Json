@@ -10,7 +10,7 @@
           "name": "M2C",
           "architecture": "m2s",
           "version": "1.6.5",
-          "category": "Contributed",
+          "category": "Arduino",
           "boards": [
             {"name": "M2C"}
           ],
