@@ -4,42 +4,19 @@
       "name": "M2C",
       "maintainer": "kunhuahuang",
       "websiteURL": "http://labs.mediatek.com/linkitone",
-      "help": {
-        "online": "http://labs.mediatek.com/forums/forums/show/11.page"
-      },
+      "help": {"online": "http://labs.mediatek.com/forums/forums/show/11.page"},
       "platforms": [
         {
           "name": "M2C",
           "architecture": "m2c",
           "version": "1.6.5",
           "category": "Contributed",
-          "help": {
-            "online": "http://labs.mediatek.com/forums/forums/show/11.page"
-          },
+          "help": {"online": "http://labs.mediatek.com/forums/forums/show/11.page"},
           "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_(for_arduino_1.6)-1.1.09.zip",
           "archiveFileName": "mediatek_linkit_sdk_(for_arduino_1.6)-1.1.09.zip",
           "checksum": "SHA-256:7c04866868e24e0bd9e8c03995833b9ec53aeb548300a143b1cf3d42763555e9",
           "size": "748739",
-          "boards": [
-            {"name": "M2C"}
-          ],
-          "toolsDependencies": []
-        },
-        {
-          "name": "M2C",
-          "architecture": "m2c",
-          "version": "1.6.5",
-          "category": "Contributed",
-          "help": {
-            "online": "http://labs.mediatek.com/forums/forums/show/11.page"
-          },
-          "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_(for_arduino_1.6)-1.1.11.zip",
-          "archiveFileName": "mediatek_linkit_sdk_(for_arduino_1.6)-1.1.11.zip",
-          "checksum": "SHA-256:34cea04bb72efe82c88adc9da2829576071c6db68ce2f8932b58ca642132422a",
-          "size": "748707",
-          "boards": [
-            {"name": "M2C"}
-          ],
+          "boards": [{"name": "M2C"}],
           "toolsDependencies": []
         }
       ],
