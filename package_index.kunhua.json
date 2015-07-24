@@ -11,6 +11,10 @@
           "architecture": "m2s",
           "version": "1.6.5",
           "category": "Contributed",
+          "url": "http://downloads.arduino.cc/cores/samd-1.6.1.tar.bz2",
+          "archiveFileName": "samd-1.6.1.tar.bz2",
+          "checksum": "SHA-256:dddd0f906a7c470a1dc7ef5b024e34c24b915020fabb5903b7313246955514a2",
+          "size": "178354",
           "boards": [
             {"name": "M2C"}
           ],
