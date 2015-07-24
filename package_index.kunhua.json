@@ -17,8 +17,6 @@
           "help": {
             "online": "http://Andestech.com"
           },
-          "url": "file:///C:/Users/kunhua/Downloads/Arduino_download/m2c.zip",
-          "archiveFileName": "m2c.zip",
           "boards": [
             {"name": "M2C"}
           ],
