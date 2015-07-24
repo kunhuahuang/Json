@@ -2,29 +2,31 @@
   "packages": [
     {
       "name": "arduino",
-      "maintainer": "Kun-Hua Huang",
-      "websiteURL": "https://github.com/kunhuahuang",
-      "email": "kunhuahuang@hotmail.com",
+      "maintainer": "kunhuahuang@hotmail.com",
+      "websiteURL": "http://github.com/kunhuahuang",
+      "help": {
+        "online": "http://github.com/kunhuahuang"
+      },
       "platforms": [
         {
-          "name": "Arduino M2C Boards (Andes Core)",
-          "architecture": "m2s",
-          "version": "1.6.5",
+          "name": "M2C",
+          "architecture": "m2c",
+          "version": "1.5.5",
           "category": "Contributed",
-          "url": "http://downloads.arduino.cc/cores/samd-1.6.1.tar.bz2",
-          "archiveFileName": "samd-1.6.1.tar.bz2",
-          "checksum": "SHA-256:dddd0f906a7c470a1dc7ef5b024e34c24b915020fabb5903b7313246955514a2",
-          "size": "178354",
+          "help": {
+            "online": "http://github.com/kunhuahuang"
+          },
+          "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_(for_arduino_1.6)-1.1.09.zip",
+          "archiveFileName": "mediatek_linkit_sdk_(for_arduino_1.6)-1.1.09.zip",
+          "checksum": "SHA-256:7c04866868e24e0bd9e8c03995833b9ec53aeb548300a143b1cf3d42763555e9",
+          "size": "748739",
           "boards": [
             {"name": "M2C"}
           ],
-          "toolsDependencies": [
-            {
-            }
-          ]
+          "toolsDependencies": []
         }
       ],
-      "tools":[]
+       "tools": []
     }
   ]
 }
