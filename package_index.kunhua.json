@@ -5,18 +5,12 @@
       "maintainer": "Kun-Hua Huang",
       "websiteURL": "https://github.com/kunhuahuang",
       "email": "kunhuahuang@hotmail.com",
-      "help": {
-        "online": "http://Andestech.com"
-      },
       "platforms": [
         {
           "name": "M2C",
           "architecture": "m2s",
           "version": "1.6.5",
           "category": "Contributed",
-          "help": {
-            "online": "http://Andestech.com"
-          },
           "boards": [
             {"name": "M2C"}
           ],
