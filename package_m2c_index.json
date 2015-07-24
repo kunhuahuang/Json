@@ -14,7 +14,10 @@
           "architecture": "m2c",
           "version": "1.6.5",
           "category": "M2C",
+          "url": "https://github.com/TKJElectronics/Balanduino/releases/download/1.1.0/Balanduino-hardware.zip",
           "archiveFileName": "m2c.zip",
+          "checksum": "SHA-256:68d71007bf25fe2a4028510a68d3536e98159ec188429937b8fcc08846b19cae",
+          "size": "6944206",
           "boards": [
             {"name": "M2C Board"}
           ],
