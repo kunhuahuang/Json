@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "M2C Board",
-          "architecture": "nds32",
+          "architecture": "m2s",
           "version": "1.6.5",
           "category": "Contributed",
           "help": {
