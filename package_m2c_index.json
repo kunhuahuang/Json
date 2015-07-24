@@ -19,7 +19,7 @@
           "checksum": "SHA-256:68d71007bf25fe2a4028510a68d3536e98159ec188429937b8fcc08846b19cae",
           "size": "6944206",
           "boards": [
-            {"name": "M2C"}
+            {"name": "Balanduino"}
           ],
           "toolsDependencies": [
             {
