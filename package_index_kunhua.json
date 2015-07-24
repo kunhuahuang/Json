@@ -3,24 +3,41 @@
     {
       "name": "M2C",
       "maintainer": "kunhuahuang",
-      "websiteURL": "http://labs.mediatek.com/linkitone",
-      "help": {"online": "http://labs.mediatek.com/forums/forums/show/11.page"},
+      "websiteURL": "http://balanduino.com/",
+      "email": "kunhuahuang@hotmail.com",
+      "help": {
+        "online": "http://forum.balanduino.com/"
+      },
       "platforms": [
         {
           "name": "M2C",
           "architecture": "m2c",
           "version": "1.6.5",
-          "category": "Contributed",
-          "help": {"online": "http://labs.mediatek.com/forums/forums/show/11.page"},
-          "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_(for_arduino_1.6)-1.1.09.zip",
-          "archiveFileName": "mediatek_linkit_sdk_(for_arduino_1.6)-1.1.09.zip",
-          "checksum": "SHA-256:7c04866868e24e0bd9e8c03995833b9ec53aeb548300a143b1cf3d42763555e9",
-          "size": "748739",
-          "boards": [{"name": "M2C"}],
-          "toolsDependencies": []
+          "category": "M2C",
+          "help": {
+            "online": "http://forum.balanduino.com/"
+          },
+          "url": "https://github.com/TKJElectronics/Balanduino/releases/download/1.1.0/Balanduino-hardware.zip",
+          "archiveFileName": "Balanduino-hardware.zip",
+          "checksum": "SHA-256:68d71007bf25fe2a4028510a68d3536e98159ec188429937b8fcc08846b19cae",
+          "size": "6944206",
+          "boards": [
+            {"name": "Balanduino"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
         }
-      ],
-       "tools": []
+      ]
     }
   ]
 }
