@@ -7,10 +7,14 @@
       "email": "kunhuahuang@hotmail.com",
       "platforms": [
         {
-          "name": "M2C",
+          "name": "Arduino M2C Boards (Andes Core)",
           "architecture": "m2s",
           "version": "1.6.5",
           "category": "Arduino",
+          "url": "",
+          "archiveFileName": "m2c.zip",
+          "checksum": "",
+          "size": "",
           "boards": [
             {"name": "M2C"}
           ],
