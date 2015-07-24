@@ -11,9 +11,9 @@
           "architecture": "m2s",
           "version": "1.6.5",
           "category": "Arduino",
-		      "url": "https://github.com/kunhuahuang/Json/edit/master/m2c.zip",
-		      "checksum": "SHA-256:2909a4c6dd6d7497e7e1b5fcaa2f66a100271417510f3a68593b65af8ff78c22",
-		      "size": "4877442",
+          "url": "https://github.com/kunhuahuang/Json/edit/master/m2c.zip",
+          "checksum": "SHA-256:2909a4c6dd6d7497e7e1b5fcaa2f66a100271417510f3a68593b65af8ff78c22",
+          "size": "4877442",
           "archiveFileName": "m2c.zip",
           "boards": [
             {"name": "M2C"}
