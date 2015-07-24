@@ -23,9 +23,14 @@
           "boards": [
             {"name": "M2C"}
           ],
-          "toolsDependencies": []
-        }
-      ],
+          "toolsDependencies": [
+            {
+              "packager": "M2C",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        },
        "tools": []
     }
   ]
