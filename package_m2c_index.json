@@ -26,7 +26,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "Andestech",
+              "packager": "M2C",
               "name": "nds32le-elf-newlib-v3m",
               "version": "4.9.2"
             }
