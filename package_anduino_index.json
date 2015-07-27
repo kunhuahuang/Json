@@ -1,0 +1,71 @@
+{
+  "packages": [
+    {
+      "name": "anduino",
+      "maintainer": "kunhuahuang",
+      "websiteURL": "http://balanduino.com/",
+      "email": "kunhuahuang@hotmail.com",
+      "help": {
+        "online": "http://forum.balanduino.com/"
+      },
+      "platforms": [
+        {
+          "name": "Anduino ANDES Boards",
+          "architecture": "m2c",
+          "version": "1.6.5",
+          "category": "Anduino",
+          "help": {
+            "online": "http://forum.balanduino.com/"
+          },
+          "url": "https://github.com/TKJElectronics/Balanduino/releases/download/1.1.0/Balanduino-hardware.zip",
+          "archiveFileName": "Balanduino-hardware.zip",
+          "checksum": "SHA-256:68d71007bf25fe2a4028510a68d3536e98159ec188429937b8fcc08846b19cae",
+          "size": "6944206",
+          "boards": [
+            {"name": "M2C Board"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "anduino",
+              "name": "nds32le-elf-newlib-v3m",
+              "version": "4.9.2"
+            },
+            {
+              "packager": "anduino",
+              "name": "m2c_burner",
+              "version": "0.0.1"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "nds32le-elf-newlib-v3m",
+          "version": "4.9.2",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
+              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
+              "checksum": "SHA-256:fd8c111c861144f932728e00abd3f7d1107e186eb9cd6083a54c7236ea78b7c2",
+              "size": "84537449"
+            }
+          ]
+        },
+        {
+          "name": "m2c_burner",
+          "version": "0.0.1",
+          "systems": [
+            {
+              "size": "241618",
+              "checksum": "SHA-256:6c5483800ba753c80893607e30cade8ab77b182808fcc5ea15fa3019c63d76ae",
+              "host": "i686-mingw32",
+              "archiveFileName": "avrdude-6.0.1-arduino2-i686-mingw32.zip",
+              "url": "http://downloads.arduino.cc/tools/avrdude-6.0.1-arduino2-i686-mingw32.zip"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
