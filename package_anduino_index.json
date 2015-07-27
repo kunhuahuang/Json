@@ -3,10 +3,10 @@
     {
       "name": "anduino",
       "maintainer": "kunhuahuang",
-      "websiteURL": "https://http://www.andestech.com.tw/",
+      "websiteURL": "https://www.andestech.com.tw/",
       "email": "kunhuahuang@hotmail.com",
       "help": {
-        "online": "https://http://www.andestech.com.tw/"
+        "online": "https://www.andestech.com.tw/"
       },
       "platforms": [
         {
@@ -15,7 +15,7 @@
           "version": "1.6.5",
           "category": "Anduino",
           "help": {
-            "online": "https://http://www.andestech.com.tw/"
+            "online": "https://www.andestech.com.tw/"
           },
           "url": "http://atccpl04/~si/m2c-1.6.5.zip",
           "archiveFileName": "m2c-1.6.5.zip",
