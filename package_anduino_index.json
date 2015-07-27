@@ -3,10 +3,10 @@
     {
       "name": "anduino",
       "maintainer": "kunhuahuang",
-      "websiteURL": "http://balanduino.com/",
+      "websiteURL": "https://http://www.andestech.com.tw/",
       "email": "kunhuahuang@hotmail.com",
       "help": {
-        "online": "http://forum.balanduino.com/"
+        "online": "https://http://www.andestech.com.tw/"
       },
       "platforms": [
         {
@@ -15,12 +15,12 @@
           "version": "1.6.5",
           "category": "Anduino",
           "help": {
-            "online": "http://forum.balanduino.com/"
+            "online": "https://http://www.andestech.com.tw/"
           },
-          "url": "https://github.com/TKJElectronics/Balanduino/releases/download/1.1.0/Balanduino-hardware.zip",
-          "archiveFileName": "Balanduino-hardware.zip",
-          "checksum": "SHA-256:68d71007bf25fe2a4028510a68d3536e98159ec188429937b8fcc08846b19cae",
-          "size": "6944206",
+          "url": "http://atccpl04/~si/m2c-1.6.5.zip",
+          "archiveFileName": "m2c-1.6.5.zip",
+          "checksum": "SHA-256:f306bcce906455674ba7cd223c2702e7b737a7c94e8b4028148c911f61e0cb05",
+          "size": "51940",
           "boards": [
             {"name": "M2C Board"}
           ],
@@ -45,10 +45,10 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "archiveFileName": "gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
-              "url": "http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
-              "checksum": "SHA-256:fd8c111c861144f932728e00abd3f7d1107e186eb9cd6083a54c7236ea78b7c2",
-              "size": "84537449"
+              "archiveFileName": "nds32le-elf-newlib-v3m.zipz",
+              "url": "http://atccpl04/~si/nds32le-elf-newlib-v3m.zip",
+              "checksum": "SHA-256:638fdf9deb561c9d1f2f92f2ac0b11fedfc223d549789c676a3c6771712097ba",
+              "size": "102779779"
             }
           ]
         },
@@ -57,11 +57,11 @@
           "version": "0.0.1",
           "systems": [
             {
-              "size": "241618",
-              "checksum": "SHA-256:6c5483800ba753c80893607e30cade8ab77b182808fcc5ea15fa3019c63d76ae",
+              "size": "47349",
+              "checksum": "SHA-256:90f74da1571a82cc4293b9e57cb586271f434f861f02d80e8c32cfb9a47a43ad",
               "host": "i686-mingw32",
-              "archiveFileName": "avrdude-6.0.1-arduino2-i686-mingw32.zip",
-              "url": "http://downloads.arduino.cc/tools/avrdude-6.0.1-arduino2-i686-mingw32.zip"
+              "archiveFileName": "m2c_burner.zip",
+              "url": "http://atccpl04/~si/m2c_burner.zip"
             }
           ]
         }
