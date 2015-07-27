@@ -45,7 +45,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "archiveFileName": "nds32le-elf-newlib-v3m.zipz",
+              "archiveFileName": "nds32le-elf-newlib-v3m.zip",
               "url": "http://atccpl04/~si/nds32le-elf-newlib-v3m.zip",
               "checksum": "SHA-256:638fdf9deb561c9d1f2f92f2ac0b11fedfc223d549789c676a3c6771712097ba",
               "size": "102779779"
