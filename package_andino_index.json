@@ -1,0 +1,71 @@
+{
+  "packages": [
+    {
+      "name": "andino",
+      "maintainer": "Andestech",
+      "websiteURL": "http://www.andestech.com.tw/",
+      "email": "kunhuahuang@hotmail.com",
+      "help": {
+        "online": "http://www.andestech.com.tw/"
+      },
+      "platforms": [
+        {
+          "name": "Andino ANDES Boards",
+          "architecture": "beaver",
+          "version": "1.0.0",
+          "category": "Andino",
+          "help": {
+            "online": "http://www.andestech.com.tw/"
+          },
+          "url": "http://knect.me/kunhua/beaver-1.0.0.tar.gz",
+          "archiveFileName": "beaver-1.0.0.tar.gz",
+          "checksum": "SHA-256:b652fa3b83b438b075f6869f2329a322017420be350fb66054734602345244c3",
+          "size": "36400",
+          "boards": [
+            {"name": "Andino Beaver M"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "andino",
+              "name": "nds32le-elf-mculib-v3m",
+              "version": "4.9.2"
+            },
+            {
+              "packager": "andino",
+              "name": "m2c_burner",
+              "version": "0.0.1"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "nds32le-elf-mculib-v3m",
+          "version": "4.9.2",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+			  "url": "http://knect.me/kunhua/nds32le-elf-mculib-v3m.tar.gz",
+              "archiveFileName": "nds32le-elf-mculib-v3m.tar.gz",
+              "checksum": "SHA-256:f4fefe2baf59991eebe3c4eea8286fddc086e56d41df908a8fd7140a93f9a4a0",
+              "size": "215915658"
+            }
+          ]
+        },
+        {
+          "name": "m2c_burner",
+          "version": "0.0.1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+			  "url": "http://knect.me/kunhua/m2c_burner.tar.gz",
+              "archiveFileName": "m2c_burner.tar.gz",
+			  "checksum": "SHA-256:8a11ab518ec65e30c549574fec99691526104e4abd4c2d84290ff2799c142d11",
+			  "size": "7145097"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
