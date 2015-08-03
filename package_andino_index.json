@@ -12,15 +12,15 @@
         {
           "name": "Andino ANDES Boards",
           "architecture": "beaver",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "Andino",
           "help": {
             "online": "http://www.andestech.com.tw/"
           },
-          "url": "http://knect.me/kunhua/beaver-1.0.0.tar.gz",
+          "url": "http://knect.me/kunhua/beaver-1.0.1.tar.gz",
           "archiveFileName": "beaver-1.0.0.tar.gz",
-          "checksum": "SHA-256:b652fa3b83b438b075f6869f2329a322017420be350fb66054734602345244c3",
-          "size": "36400",
+          "checksum": "SHA-256:7ebe35ab18b76ff2bc8a1dbfeb9411e81891f56d02f6bd8ad683a29067dd2e16",
+          "size": "36402",
           "boards": [
             {"name": "Andino Beaver M"}
           ],
